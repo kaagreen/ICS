@@ -24,12 +24,18 @@
     <ClCompile Include="MockInputListener.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="MockSocketListener.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="MockInputListener.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="MockSocketListener.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
